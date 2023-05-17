@@ -1,0 +1,30 @@
+{
+  "id": "956edc1f-0699-465b-872a-3cf5a2304124",
+  "name": "Onetech",
+  "publisher": "Grupo STAFF",
+  "version": "1.0.2.0",
+  "logo": "",
+  "runtime": "10.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "target": "Cloud",
+  "application": "1.0.0.0",
+  "platform": "21.0.0.0",
+  "dependencies": [
+    {
+      "id": "851c279d-958a-4479-a6e6-b2eb62fe20ca",
+      "name": "DrakoLtdBC",
+      "version": "3.0.2.2",
+      "publisher": "Grupo STAFF"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ]
+}
